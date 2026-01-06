@@ -1,4 +1,3 @@
-# accident-prediction-using-machine-learning
 A Accident Prediction using Machine Learning 
 • Preprocessed accident dataset (traffic, weather, time factors) using pandas, regex, and seaborn for visualization. 
 • Engineered features like weather condition, day/night, and accident hour; handled missing values with imputation. 
